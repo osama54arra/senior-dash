@@ -1,3 +1,6 @@
+##Deploys to Netlify 
+https://profpal-org.netlify.app/auth/login?next=/
+
 ## Available Scripts
 
 In the project directory, you can run:
