@@ -1,5 +1,5 @@
 ##Deploys to Netlify 
-https://profpal-org.netlify.app/auth/login?next=/
+[https://profpal-org.netlify.app/auth/login?next=/](https://profpal-org.netlify.app/)
 
 ## Available Scripts
 
